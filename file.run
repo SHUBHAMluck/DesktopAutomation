@@ -1,0 +1,9 @@
+sudo apt-get install build-essential curl file git
+brew install geckodriver
+sudo apt install mpg321
+sudo apt-get install portaudio19-dev python-pyaudio
+sudo apt-get install libportaudio-dev
+sudo apt install libespeak1
+sudo apt-get update && sudo apt-get install espeak
+sudo apt-get install python-pygame
+sudo apt-get install python3-pyaudio
